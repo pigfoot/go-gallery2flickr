@@ -1,0 +1,6 @@
+hash: 8bf6a0ebc272b16facb9081b9c875135bb4e5225c0b092510c3496204646f609
+updated: 2016-02-29T18:51:27.565596534+08:00
+imports:
+- name: github.com/yvasiyarov/php_session_decoder
+  version: 16ce1f6b344a1f3b2da927463411c2b1029a80bc
+devImports: []
