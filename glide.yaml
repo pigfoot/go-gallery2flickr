@@ -1,4 +1,6 @@
 package: .
 import:
 - package: github.com/yvasiyarov/php_session_decoder
+  version: 16ce1f6b344a1f3b2da927463411c2b1029a80bc
 - package: github.com/codegangsta/cli
+  version: a2943485b110df8842045ae0600047f88a3a56a1
